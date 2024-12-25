@@ -51,21 +51,21 @@ Programul citește mai multe informații despre videoclipuri de la utilizator ș
   - La final, programul va afișa rezultatele solicitate în funcție de comanda aleasă.
 
 ### Exemplar de Input:
-3
-vid1 Sport 120 60 10
-vid2 Studiu 300 150 20
-vid3 Animale 200 80 15
-c
-vid1 Sport 150 70 20
-vid3 Animale 220 100 30
-vid4 Studiu 400 200 40
+    3
+    vid1 Sport 120 60 10
+    vid2 Studiu 300 150 20
+    vid3 Animale 200 80 15
+    c
+    vid1 Sport 150 70 20
+    vid3 Animale 220 100 30
+    vid4 Studiu 400 200 40
 
 
 ### Exemplar de Output pentru cerința (a):
-vid4 6.00
-vid3 6.33
-vid1 6.99
-vid2 8.50
+    vid4 6.00
+    vid3 6.33
+    vid1 6.99
+    vid2 8.50
 
 # EN LANGUAGE 🇬🇧 :
 
