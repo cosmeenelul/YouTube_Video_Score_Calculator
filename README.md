@@ -1,6 +1,8 @@
 # YouTube_Video_Score_Calculator 🎬📊
 Object Oriented Programming Project using Encapsulation , Inheritance , Polymorphism and Abstraction
 
+*GO TO MASTER BRANCH FOR THE SOURCE CODE* 
+
 # RO LANGUAGE 🇷🇴 :
 Acest proiect calculează scorurile videoclipurilor dintr-o platformă de social media pe baza unui set de informații (ID, categorie, like-uri, dislike-uri, vizualizări). Scorurile sunt calculate atât în mod simplu, cât și avansat. Proiectul permite sortarea și analiza acestora pe baza mai multor criterii. 🔢
 
