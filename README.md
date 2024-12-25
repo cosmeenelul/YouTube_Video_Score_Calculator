@@ -68,7 +68,6 @@ vid1 6.99
 vid2 8.50
 
 # EN LANGUAGE 🇬🇧 :
-# YouTube Video Score Calculator 🇷🇴🎬📊
 
 This project calculates the scores of videos from a social media platform based on a set of information (ID, category, likes, dislikes, views). The scores are calculated both simply and advanced. The project allows sorting and analyzing the videos based on various criteria. 🔢
 
